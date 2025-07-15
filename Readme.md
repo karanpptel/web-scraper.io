@@ -1,9 +1,9 @@
-Package	         Purpose
-axios	         To make HTTP requests to websites.
-cheerio	         To parse and traverse HTML (jQuery-like syntax).
-fs (built-in)	 To read/write files (JSON or CSV).
-json2csv	     Convert JSON data to CSV easily.
-node-schedule	 To schedule scraping tasks at regular intervals.
+Package	               Purpose
+axios	               To make HTTP requests to websites.
+cheerio	             To parse and traverse HTML (jQuery-like syntax).
+fs (built-in)	       To read/write files (JSON or CSV).
+json2csv	            Convert JSON data to CSV easily.
+node-schedule	       To schedule scraping tasks at regular intervals.
 
 
 node-cron        schedule scraping tasks. :        Cron	Meaning
